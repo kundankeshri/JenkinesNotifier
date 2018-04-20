@@ -1,0 +1,139 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate
+[pluginIrretate] $ cmd.exe /C "mvn -f pom.xml clean install && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[8mha:AAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.jenkins-ci.tools:maven-hpi-plugin:jar:2.2 is missing, no dependency information available
+[8mha:AAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Failed to build parent project for io.jenkins.plugins:pluginIrretate:hpi:1.0-SNAPSHOT
+[INFO] 
+[INFO] -----------------< io.jenkins.plugins:pluginIrretate >------------------
+[INFO] Building TODO Plugin 1.0-SNAPSHOT
+[INFO] --------------------------------[ hpi ]---------------------------------
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:3.0.0:clean (default-clean) @ pluginIrretate ---
+[INFO] Deleting C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:validate (default-validate) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M1:display-info (display-info) @ pluginIrretate ---
+[INFO] Maven Version: 3.5.3
+[INFO] JDK Version: 1.8.0_121 normalized as: 1.8.0-121
+[INFO] OS Info: Arch: amd64 Family: windows Name: windows 10 Version: 10.0
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M1:enforce (display-info) @ pluginIrretate ---
+[INFO] Ignoring requireUpperBoundDeps in com.google.guava:guava
+[INFO] Ignoring requireUpperBoundDeps in com.google.code.findbugs:jsr305
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-localizer-plugin:1.24:generate (default) @ pluginIrretate ---
+[INFO] 
+[INFO] >>> maven-javadoc-plugin:2.10.4:javadoc (default) > generate-sources @ pluginIrretate >>>
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:validate (default-validate) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M1:display-info (display-info) @ pluginIrretate ---
+[INFO] Maven Version: 3.5.3
+[INFO] JDK Version: 1.8.0_121 normalized as: 1.8.0-121
+[INFO] OS Info: Arch: amd64 Family: windows Name: windows 10 Version: 10.0
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M1:enforce (display-info) @ pluginIrretate ---
+[INFO] Ignoring requireUpperBoundDeps in com.google.guava:guava
+[INFO] Ignoring requireUpperBoundDeps in com.google.code.findbugs:jsr305
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-localizer-plugin:1.24:generate (default) @ pluginIrretate ---
+[INFO] 
+[INFO] <<< maven-javadoc-plugin:2.10.4:javadoc (default) < generate-sources @ pluginIrretate <<<
+[INFO] 
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-javadoc-plugin:2.10.4:javadoc (default) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ pluginIrretate ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 30 resources
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ pluginIrretate ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\classes
+[INFO] 
+[INFO] --- access-modifier-checker:1.8:enforce (default-enforce) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- animal-sniffer-maven-plugin:1.15:check (check) @ pluginIrretate ---
+[INFO] Resolved signature org.codehaus.mojo.signature:java17 version as 1.0 from dependencyManagement
+[INFO] Checking unresolved references to org.codehaus.mojo.signature:java17:1.0
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:insert-test (default-insert-test) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- gmaven-plugin:1.5-jenkins-3:generateTestStubs (test-in-groovy) @ pluginIrretate ---
+[INFO] No sources found for Java stub generation
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ pluginIrretate ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\src\test\resources
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ pluginIrretate ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\test-classes
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:test-hpl (default-test-hpl) @ pluginIrretate ---
+[INFO] Generating C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\test-classes\the.hpl
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:resolve-test-dependencies (default-resolve-test-dependencies) @ pluginIrretate ---
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- gmaven-plugin:1.5-jenkins-3:testCompile (test-in-groovy) @ pluginIrretate ---
+[INFO] No sources found to compile
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ pluginIrretate ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running InjectedTest
+[INFO] Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.245 s - in InjectedTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 19, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-license-plugin:1.7:process (default) @ pluginIrretate ---
+[INFO] Generated C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate\WEB-INF\licenses.xml
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-hpi-plugin:2.2:hpi (default-hpi) @ pluginIrretate ---
+[INFO] Generating C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate\META-INF\MANIFEST.MF
+[INFO] Checking for attached .jar artifact ...
+[INFO] Generating jar C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.jar
+[INFO] Building jar: C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.jar
+[INFO] Exploding webapp...
+[INFO] Copy webapp webResources to C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate
+[INFO] Assembling webapp pluginIrretate in C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate
+[INFO] Generating hpi C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.hpi
+[INFO] Building jar: C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.hpi
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-jar-plugin:3.0.2:test-jar (maybe-test-jar) @ pluginIrretate ---
+[INFO] Skipping packaging of the test-jar
+[INFO] 
+[INFO] >>> findbugs-maven-plugin:3.0.5:check (findbugs) > :findbugs @ pluginIrretate >>>
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- findbugs-maven-plugin:3.0.5:findbugs (findbugs) @ pluginIrretate ---
+[INFO] Fork Value is true
+     [java] Apr 19, 2018 1:24:35 PM java.util.prefs.WindowsPreferences <init>
+     [java] WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+[INFO] Done FindBugs Analysis....
+[INFO] 
+[INFO] <<< findbugs-maven-plugin:3.0.5:check (findbugs) < :findbugs @ pluginIrretate <<<
+[INFO] 
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- findbugs-maven-plugin:3.0.5:check (findbugs) @ pluginIrretate ---
+[INFO] BugInstance size is 0
+[INFO] Error size is 0
+[INFO] No errors/warnings found
+[INFO] 
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-install-plugin:2.5.2:install (default-install) @ pluginIrretate ---
+[INFO] Installing C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.hpi to C:\Users\C15602\.m2\repository\io\jenkins\plugins\pluginIrretate\1.0-SNAPSHOT\pluginIrretate-1.0-SNAPSHOT.hpi
+[INFO] Installing C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\pom.xml to C:\Users\C15602\.m2\repository\io\jenkins\plugins\pluginIrretate\1.0-SNAPSHOT\pluginIrretate-1.0-SNAPSHOT.pom
+[INFO] Installing C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate\target\pluginIrretate.jar to C:\Users\C15602\.m2\repository\io\jenkins\plugins\pluginIrretate\1.0-SNAPSHOT\pluginIrretate-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 01:45 min
+[INFO] Finished at: 2018-04-19T13:24:43+05:30
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS

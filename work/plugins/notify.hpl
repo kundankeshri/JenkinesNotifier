@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: notify
+Long-Name: TODO Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-04/19/2018 18:04-C15602)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+Libraries: C:\Users\C15602\Desktop\pluginDDD\Notify\notify\src\main\re
+ sources,C:\Users\C15602\Desktop\pluginDDD\Notify\notify\target\classes
+Resource-Path: C:\Users\C15602\Desktop\pluginDDD\Notify\notify\src\mai
+ n\webapp
+

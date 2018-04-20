@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <io.jenkins.plugins.sample.HelloWorldBuilder_-BuildListener_-1 plugin="notify@1.0-SNAPSHOT">
+      <outer-class>
+        <targetType>hudson.model.AbstractBuild</targetType>
+      </outer-class>
+    </io.jenkins.plugins.sample.HelloWorldBuilder_-BuildListener_-1>
+  </actions>
+  <queueId>1</queueId>
+  <timestamp>1524140674659</timestamp>
+  <startTime>1524140674682</startTime>
+  <result>SUCCESS</result>
+  <duration>112472</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\C15602\Desktop\pluginDDD\jenkines\pluginIrretate</workspace>
+  <hudsonVersion>2.7.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

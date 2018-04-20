@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: C15602
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_121
+Extension-Name: notify
+Specification-Title: TODO
+Implementation-Title: notify
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: notify
+Long-Name: TODO Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-04/19/2018 18:03-C15602)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+
